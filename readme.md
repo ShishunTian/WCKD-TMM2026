@@ -1,5 +1,5 @@
-# Weakly-Correlated Knowledge Distillation for Blind Image Quality Assessment [IEEE TMM 2025]
-An Official Pytorch Implementation of Weakly-Correlated Knowledge Distillation for Blind Image Quality Assessment [IEEE TMM 2025].
+# Weakly-Correlated Knowledge Distillation for Blind Image Quality Assessment [IEEE TMM 2026]
+An Official Pytorch Implementation of Weakly-Correlated Knowledge Distillation for Blind Image Quality Assessment [IEEE TMM 2026].
 
 ## Get Started
 ### Datasets Preparation
