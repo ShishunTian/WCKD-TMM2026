@@ -113,5 +113,13 @@ This repo is developed based on TReS and LIQE. Please chheck [TReS](https://gith
 ## Citation
 If you find WCKD useful in your research, please consider citing:
 ```
-
+@ARTICLE{11456770,
+  author={Su, Ting and Huang, Lingze and Zou, Wenbin and Yue, Guanghui and Tian, Shishun},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Weakly-Correlated Knowledge Distillation for Blind Image Quality Assessment}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/TMM.2026.3678061}}
 ```
